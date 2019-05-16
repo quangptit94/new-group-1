@@ -1,0 +1,9 @@
+{
+    "upgradel-model":[
+	    {
+	    "is-alive-store":"false",
+	    "is-show-out":"true",
+            "package-name-replace":"xxx.yyy.zzzz"
+        }
+    ]
+}
