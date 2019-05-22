@@ -1,0 +1,9 @@
+
+{
+    "mydata":[
+	    {
+	    "is-alive-store":"true",
+        "package-name-replace":"xxx.yyy.zzzz"
+        }
+    ]
+}
