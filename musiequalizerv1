@@ -2,7 +2,7 @@
 {
     "mydata":[
 	    {
-	    "is-alive-store":"true",
+	    "is-alive-store":"false",
         "package-name-replace":"xxx.yyy.zzzz"
         }
     ]
