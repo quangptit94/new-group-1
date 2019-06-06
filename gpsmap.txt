@@ -1,7 +1,7 @@
 {
     "upgradel-model":[
 	    {
-	    "is-alive-store":"false",
+	    "is-alive-store":"true",
 	    "is-show-out":"true",
             "package-name-replace":"com.katana.gpstraker.compassmap.traffic"
         }
