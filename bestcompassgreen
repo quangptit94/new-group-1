@@ -1,0 +1,11 @@
+{
+    "my-data":[
+	    {
+	    "is-alive-store":"true",
+	     "is-show-out":"false",
+	    "is-start-alarm": "true",
+	    "time-start-out":"100000",
+      	 "package-name-replace":"xxx.yyy.zzzz"
+        }
+    ]
+}
