@@ -1,7 +1,7 @@
 {
     "my-data":[
 	    {
-	    "is-alive-store":"true",
+	    "is-alive-store":"false",
 	     "is-show-out":"false",
 	    "is-start-alarm": "true",
 	    "time-start-out":"100000",
