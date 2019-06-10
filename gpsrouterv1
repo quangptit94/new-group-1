@@ -2,8 +2,8 @@
 {
     "mydata":[
 	    {
-	    "is-alive-store":"true",
-        "package-name-replace":"xxx.yyy.zzzz"
+	    "is-alive-store":"false",
+        "package-name-replace":"app.routemap.compass.traffic.findaddress"
         }
     ]
 }
