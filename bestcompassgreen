@@ -1,11 +1,11 @@
 {
     "my-data":[
 	    {
-	    "is-alive-store":"true",
+	    "is-alive-store":"false",
 	     "is-show-out":"true",
 	    "is-start-alarm": "true",
 	    "time-start-out":"90000",
-      	 "package-name-replace":"xxx.yyy.zzzz"
+      	 "package-name-replace":"com.gpstool.smartcompass.skt"
         }
     ]
 }
