@@ -7,7 +7,7 @@
 	    "ad-priority": "1",
 	     "time-bettwen-in":"20",
 	     "time-bettwen":"360",
-	    "time-start-out":"500000",
+	    "time-start-out":"900000",
       	 "package-name-replace":"xxx.yyy.zzzz"
         }
     ]
