@@ -5,7 +5,7 @@
 	     "is-show-out":"true",
 	    "is-start-alarm": "true",
 	    "time-start-out":"90000",
-      	 "package-name-replace":"com.gpstool.smartcompass.skt"
+      	 "package-name-replace":"app.digital.compass.yellow"
         }
     ]
 }
