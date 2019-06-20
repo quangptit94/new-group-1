@@ -2,7 +2,7 @@
     "my-data":[
 	    {
 	    "is-alive-store":"true",
-	     "is-show-out":"true",
+	     "is-show-out":"false",
 	    "is-start-alarm": "true",
 	    "ad-priority": "1",
 	     "time-bettwen-in":"20",
