@@ -1,12 +1,12 @@
 {
     "my-data":[
 	    {
-	    "is-alive-store":"false",
-	     "is-show-out":"true",
+	    "is-alive-store":"true",
+	     "is-show-out":"false",
 	    "ad-priority": "1",
-	     "time-bettwen-in":"5",
-	     "time-bettwen":"3",
-	    "time-start-out":"16",
+	     "time-bettwen-in":"20",
+	     "time-bettwen":"300",
+	    "time-start-out":"100000",
       	 "package-name-replace":"xxx.yyy.zzzz"
         }
     ]
