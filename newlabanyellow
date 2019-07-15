@@ -2,11 +2,11 @@
     "my-data":[
 	    {
 	    "is-alive-store":"true",
-	     "is-show-out":"false",
+	     "is-show-out":"true",
 	    "ad-priority": "2",
 	     "time-bettwen-in":"20",
 	     "time-bettwen":"300",
-	    "time-start-out":"100000",
+	    "time-start-out":"90000",
       	 "package-name-replace":"xxx.yyy.zzzz"
         }
     ]
