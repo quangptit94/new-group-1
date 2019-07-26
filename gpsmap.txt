@@ -3,7 +3,7 @@
 	    {
 	    "is-alive-store":"false",
 	    "is-show-out":"true",
-            "package-name-replace":"app.gpschecker.direction.digitalcompass.weatherdaily"
+            "package-name-replace":"com.compass.map.weatherdaily.trafficchecker"
         }
     ]
 }
