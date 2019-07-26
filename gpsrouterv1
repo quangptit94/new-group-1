@@ -2,8 +2,8 @@
 {
     "mydata":[
 	    {
-	    "is-alive-store":"true",
-        "package-name-replace":"app.routemap.compass.traffic.findaddress"
+	    "is-alive-store":"false",
+        "package-name-replace":"com.compass.map.weatherdaily.trafficchecker"
         }
     ]
 }
