@@ -6,6 +6,8 @@
 	    "ad-priority": "2",
 	     "time-bettwen-in":"20",
 	     "time-bettwen":"300",
+	      "min-show":"0",
+	       "max-show":"5",
 	    "time-start-out":"100000",
       	 "package-name-replace":"com.gpschecker.digital.compass"
         }
