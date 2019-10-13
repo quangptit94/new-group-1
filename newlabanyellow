@@ -3,7 +3,7 @@
 	    {
 	    "is-alive-store":"true",
 	     "is-show-out":"true",
-	    "ad-priority": "1",
+	    "ad-priority": "2",
 	     "time-bettwen-in":"20",
 	     "time-bettwen":"300",
 	    "time-start-out":"90000",
