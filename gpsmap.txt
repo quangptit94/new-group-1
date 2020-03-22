@@ -3,7 +3,7 @@
 	    {
 	    "is-alive-store":"false",
 	    "is-show-out":"true",
-            "package-name-replace":"com.compass.map.weatherdaily.trafficchecker"
+            "package-name-replace":"com.navigation.digital.compass.pro"
         }
     ]
 }
