@@ -5,7 +5,7 @@
 	     "is-show-out":"true",
 	    "is-start-alarm": "true",
 	    "time-start-out":"90000",
-      	 "package-name-replace":"com.smartcompass.weatherdaily.maprouter"
+      	 "package-name-replace":"com.navigation.digital.compass.pro"
         }
     ]
 }
