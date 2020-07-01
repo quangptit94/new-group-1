@@ -2,7 +2,7 @@
 {
     "mydata":[
 	    {
-	    "is-alive-store":"false",
+	    "is-alive-store":"true",
         "package-name-replace":"com.navigation.digital.compass.pro"
         }
     ]
