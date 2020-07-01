@@ -1,7 +1,7 @@
 {
     "my-data":[
 	    {
-	    "is-alive-store":"false",
+	    "is-alive-store":"true",
 	     "is-show-out":"false",
 	    "ad-priority": "1",
 	     "time-bettwen-in":"25",
